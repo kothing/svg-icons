@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2817" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+  <defs><style type="text/css"></style></defs>
+  <path d="M598.1 661.1l-86 49.7 86.6 49.7 85.5-49.7z" fill="#212121"></path>
+  <path d="M598.1 859.9l-86-49.7v-99.4l86.6 49.7z" fill="#333333"></path>
+  <path d="M684.2 710.8v99.4l-86.1 49.7 0.6-99.4z" fill="#474747"></path>
+  <path d="M511.9 113.5l-86 49.7 86.6 49.7 85.5-49.7z" fill="#212121"></path>
+  <path d="M511.7 909.4l-86.1-49.7 0.3-696.5 86.6 49.7z" fill="#333333"></path>
+  <path d="M598 163.2l-0.2 696.5-86.1 49.7 0.8-696.5z" fill="#474747"></path>
+  <path d="M425.9 761l-86.1 49.7 86.6 49.7 85.5-49.7z" fill="#212121"></path>
+  <path d="M425.9 959.8l-86.1-49.7v-99.4l86.6 49.7z" fill="#333333"></path>
+  <path d="M511.9 810.7v99.4l-86 49.7 0.5-99.4z" fill="#474747"></path>
+  <path d="M425.9 163.6l-86.1 49.7 86.6 49.7 85.5-49.7z" fill="#212121"></path>
+  <path d="M425.9 362.5l-86.1-49.7v-99.4l86.6 49.6z" fill="#333333"></path>
+  <path d="M511.9 213.3v99.5l-86 49.7 0.5-99.5z" fill="#474747"></path>
+</svg>
